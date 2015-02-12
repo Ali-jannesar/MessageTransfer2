@@ -1,0 +1,4 @@
+C:\projects\Message_sender_console\Message_sender_console\bin\x64\Debug\Message_sender_console.exe
+C:\projects\Message_sender_console\Message_sender_console\bin\x64\Debug\Message_sender_console.pdb
+C:\projects\Message_sender_console\Message_sender_console\obj\x64\Debug\Message_sender_console.exe
+C:\projects\Message_sender_console\Message_sender_console\obj\x64\Debug\Message_sender_console.pdb

@@ -1,0 +1,5 @@
+C:\Users\Farzad\Desktop\Temp\MessageTransfer\WebMessageReceiver\bin\MessageReceiverWebService.dll
+C:\Users\Farzad\Desktop\Temp\MessageTransfer\WebMessageReceiver\bin\MessageReceiverWebService.pdb
+C:\Users\Farzad\Desktop\Temp\MessageTransfer\WebMessageReceiver\obj\Debug\WebMessageReceiver.csprojResolveAssemblyReference.cache
+C:\Users\Farzad\Desktop\Temp\MessageTransfer\WebMessageReceiver\obj\Debug\MessageReceiverWebService.dll
+C:\Users\Farzad\Desktop\Temp\MessageTransfer\WebMessageReceiver\obj\Debug\MessageReceiverWebService.pdb

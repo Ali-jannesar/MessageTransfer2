@@ -1,0 +1,5 @@
+c:\users\farzad\documents\visual studio 2012\Projects\MessageReceiverWebService\MessageReceiverWebService\bin\MessageReceiverWebService.dll
+c:\users\farzad\documents\visual studio 2012\Projects\MessageReceiverWebService\MessageReceiverWebService\bin\MessageReceiverWebService.pdb
+c:\users\farzad\documents\visual studio 2012\Projects\MessageReceiverWebService\MessageReceiverWebService\obj\Debug\MessageReceiverWebService.dll
+c:\users\farzad\documents\visual studio 2012\Projects\MessageReceiverWebService\MessageReceiverWebService\obj\Debug\MessageReceiverWebService.pdb
+C:\Users\Farzad\documents\visual studio 2012\Projects\MessageReceiverWebService\MessageReceiverWebService\obj\Debug\MessageReceiverWebService.csprojResolveAssemblyReference.cache

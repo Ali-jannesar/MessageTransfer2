@@ -1,0 +1,12 @@
+C:\projects\Message_sender_console\Message_sender_console\bin\Debug\Message_sender_console.exe
+C:\projects\Message_sender_console\Message_sender_console\bin\Debug\Message_sender_console.pdb
+C:\projects\Message_sender_console\Message_sender_console\obj\Debug\Message_sender_console.csprojResolveAssemblyReference.cache
+C:\projects\Message_sender_console\Message_sender_console\obj\Debug\Message_sender_console.exe
+C:\projects\Message_sender_console\Message_sender_console\obj\Debug\Message_sender_console.pdb
+C:\Users\Farzad\Desktop\Project Niloo\Message_sender_console\Message_sender_console\obj\Debug\Message_sender_console.exe
+C:\Users\Farzad\Desktop\Project Niloo\Message_sender_console\Message_sender_console\obj\Debug\Message_sender_console.pdb
+C:\Users\Farzad\Desktop\Project Niloo\Message_sender_console\Message_sender_console\bin\Debug\Message_sender_console.exe
+C:\Users\Farzad\Desktop\Project Niloo\Message_sender_console\Message_sender_console\bin\Debug\Message_sender_console.pdb
+C:\Users\Farzad\Desktop\Project Niloo\Message_sender_console\Message_sender_console\obj\Debug\Message_sender_console.csprojResolveAssemblyReference.cache
+C:\Users\Farzad\Desktop\Temp\MessageTransfer\ConsoleMessageSender\obj\Debug\Message_sender_console.exe
+C:\Users\Farzad\Desktop\Temp\MessageTransfer\ConsoleMessageSender\obj\Debug\Message_sender_console.pdb
